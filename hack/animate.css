@@ -1,0 +1,9 @@
+.background-home{
+    position: absolute;
+    width: 1919px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(270deg, #000000 11.22%, rgba(53, 5, 90, 0.930939) 37.91%, #000000 95.96%);
+
+}
